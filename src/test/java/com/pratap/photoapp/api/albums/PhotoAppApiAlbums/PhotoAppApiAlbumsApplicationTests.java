@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.photoapp.api.albums.PhotoAppApiAlbums;
+package com.pratap.photoapp.api.albums.PhotoAppApiAlbums;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
